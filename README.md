@@ -51,7 +51,7 @@ Step 2.3 The Best Model
 This step is important because we published the model so that it can be consumed by others.
 
 
-## Step 4: Enable Application Insights and Logging: 
+## Step 4: Enable Application Insights and Logging 
 Once the model is deployed I enabled Application Insights and retireved logs. Application Insightsis an Azure service that provides key performance information about the deployed service.
 
 Step 4.1 Running the logs.py Script
@@ -60,7 +60,7 @@ Step 4.1 Running the logs.py Script
 Step 4.2 Enabled Applications Insights
 ![](Images/Step4.2%20-%20enabled%20Application%20Insights.JPG)
 
-## Step 5: Swagger Documentation: 
+## Step 5: Swagger Documentation
 Swagger makes documentation easier by describing the API what requests it accepts, inputs and endpoints  
 
 Step 5.1 Swagger Running on Localhost
