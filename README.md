@@ -36,32 +36,51 @@ Part 2
 Step 2.1 The Registered Bankmarketing Dataset
 ![](Images/Step2.1-Registered%20Dataset.JPG)
 
-Step 2.2 The completed Experiment
+Step 2.2 The Completed Experiment
 ![](Images/Step2.2%20-Completed%20Experiment.JPG)
 
 Step 2.3 The Best Model
 ![](Images/Step2.3%20-%20Best%20Model.JPG)
 
-Step 4.1 Running the logs.pty script
+Step 4.1 Running the logs.py Script
 ![](Images/Step4.1%20-%20logs.JPG)
 
 Step 4.2 Enabled Applications Insights
 ![](Images/Step4.2%20-%20enabled%20Application%20Insights.JPG)
 
-Step 5.1 Swagger Running on Locahost
+Step 5.1 Swagger Running on Localhost
 ![](Images/Step5.1%20-%20Swagger%20runs%20on%20localhost.JPG)
 
-Step 5.2 Swagger - HTTP API Methods and responses
+Step 5.2 Swagger - HTTP API Methods and Responses
 ![](Images/Step5.2%20-%20Swagger%20-%20HTTP%20API%20methods%20and%20responses.JPG)
 
-Step 5.3 Swagger - HTTP API Methods and responses (cont'd)
+Step 5.3 Swagger - HTTP API Methods and Responses (cont'd)
 ![](Images/Step5.3%20-%20Swagger%20-%20HTTP%20API%20Methods%20and%20responses.JPG)
 
-Step 5.4 Swagger - HTTP API Methods and responses (cont'd)
+Step 5.4 Swagger - HTTP API Methods and Responses (cont'd)
 ![](Images/Step5.4%20-%20Swagger%20-%20HTTP%20API%20methods%20and%20responces.JPG)
 
-Step 6.1 endpoint.py producing JSON output
+Step 6.1 endpoint.py Producing JSON Output
 ![](Images/Step6.1%20-%20endpoint.py%20producing%20JSON%20output.JPG)
+
+Step 7.1 A Pipline is Created
+![](Images/Step7.1%20-%20pipeline%20created.JPG)
+
+Step 7.2 Published Pipeline under Pipeline Endpoint Tab
+![](Images/step7.3%20-%20pipeline%20endpoint.JPG)
+
+Step 7.3 Dataset with AutoML Module, the Published Pipeline Overview Including Active Satatus and REST Endpoint 
+![](Images/Step7.4%20Dataset%20with%20AutoML%20module%20and%20the%20published%20pipeline%20overview.JPG)
+
+Step 7.3 RunDetails Widget Showing Step Runs 
+![](Images/Step7.5%20RunDetails%20widget%20showing%20step%20runs.JPG)
+
+Step 7.4 RunDetails Widget Showing Step Runs 
+![](Images/Step7.5%20RunDetails%20widget%20showing%20step%20runs.JPG)
+
+Step 7.5 Scheduled and Running Pipeline 
+![](Images/Step7.6%20-%20Scheduled%20and%20running%20pipeline.JPG)
+
 
 ## Screen Recording
 A link to the screencast on Youtube:
