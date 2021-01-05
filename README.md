@@ -24,14 +24,15 @@ Part 2
 ## Key Steps
 
 ### Project main steps
-1.	Authentication
-2.	Automated ML Experiment
-3.	Deploy the best model
-4.	Enable logging
-5.	Swagger Documentation
-6.	Consume model endpoints
-7.	Create and publish a pipeline
-8.	Documentation
+1.	Authentication: Authentication is required to ensure uninterrupted flow of operations
+2.	Automated ML Experiment: Iteratively producing different ML models (various combinations of algorithms and parameters) and determining the best one
+3.	Deploy the best model: Publishing the model so that it can be consumed by others
+4.	Enable Application Insights: Application Insights provide key performance information about the deployed service
+5.	Swagger Documentation: Swagger makes documentation easier by describing the API what requests it accepts, inputs and endpoints  
+6.	Consume model endpoints: Consuming the REST endpoint to interact with the trained model via POST request
+7.	Create and publish a pipeline: Creating an ML pipeline and consuming the REST endpoint to interact with the pipeline via POST request
+8.	Documentation: Creating a screencast showing the entire process of the working ML application and producing a README file documenting the main steps of the project. 
+
 
 
 ## Screen Recording
