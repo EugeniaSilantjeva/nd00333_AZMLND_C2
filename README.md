@@ -8,7 +8,7 @@ The project consists of two parts. The aim of the first part is to configure, de
 
 ![](Images/Diagram.JPG)
 
-Part 1 Azure ML Studia
+Part 1 Azure ML Studio
 1. Registering the dataset to make it available in the Azure workspace for the Automated ML Experiment
 2. Using Automated ML to determine the best model
 3. Deploying the best model so that it can be consumed
@@ -69,13 +69,16 @@ Step 7.1 A Pipline is Created
 Step 7.2 A Published Pipeline under the Pipeline Endpoint Tab
 ![](Images/step7.3%20-%20pipeline%20endpoint.JPG)
 
-Step 7.3 The Dataset with the AutoML Module, the Published Pipeline Overview Including Active Satatus and REST Endpoint 
+Step 7.3 The Bankmarketing Dataset with the AutoML Module
+![](Images/Final_pipeline_with_automl_module step7.JPG)
+
+Step 7.4 The Published Pipeline Overview Including Active Satatus and REST Endpoint 
 ![](Images/Step7.4%20Dataset%20with%20AutoML%20module%20and%20the%20published%20pipeline%20overview.JPG)
 
-Step 7.4 RunDetails Widget Showing Step Runs 
+Step 7.5 RunDetails Widget Showing Step Runs 
 ![](Images/Step7.5_RunDetail_swidget_showing_step_runs.JPG)
 
-Step 7.5 Scheduled and Running Pipeline 
+Step 7.6 Scheduled and Running Pipeline 
 ![](Images/Step7.6%20-%20Scheduled%20and%20running%20pipeline.JPG)
 
 
