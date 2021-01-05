@@ -36,7 +36,7 @@ Part 2 SDK
 Authentication is required to ensure uninterrupted flow of operations. I skipped the step since I used the lab udacity provided.
 
 ## Step 2: Automated ML Experiment 
-The experiment iteratively produces different ML models (various combinations of algorithms and parameters) and determines the best one.
+The experiment iteratively produces different ML models (various combinations of algorithms and parameters) and determines the best one (the one that is the best fit for the data).
 
 Step 2.1 The Registered Bankmarketing Dataset
 ![](Images/Step2.1-Registered%20Dataset.JPG)
