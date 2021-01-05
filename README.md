@@ -1,7 +1,7 @@
 # Operationalising Machine Learning
 
 ## Overview
-The project consists of two parts. The aim of the first part is to configure, deploy and consume a cloud-based ML production model using Azure. The aim of the second part is to create, publish and consume a pipeline. The Bank Marketing dataset is used to train the models in the first and the second parts.
+The project consists of two parts. The aim of the first part is to configure, deploy and consume a cloud-based ML production model using Azure. The aim of the second part is to create, publish and consume a pipeline. The Bank Marketing dataset is used to train the models in the first and the second parts. The model (Part 1) and the pipeline (Part 2) will be deployed to their REST endpoints. After the model and the pipeline are deployed, others or other systems can interact with the deployed services by sending HTTP requests to their enspoints. 
 
 
 ## Architectural Diagram
