@@ -16,7 +16,7 @@ Part 1 Azure ML Studio
 
 Part 2 SDK
 1. Using the same dataset registered in Azure workspace for Part 1
-2. Creating a ML pipeline and AutoML step for workflow automation
+2. Creating an ML pipeline and AutoML step for workflow automation
 3. Publishing the pipeline so that it can be consumed
 4. Consuming the REST endpoint to interact with the pipeline via POST request
 
@@ -36,7 +36,7 @@ Part 2 SDK
 Authentication is required to ensure uninterrupted flow of operations. I skipped the step since I used the lab udacity provided.
 
 ## Step 2: Automated ML Experiment 
-The experiment iteratively produces different ML models (various combinations of algorithms and parameters) and determins the best one.
+The experiment iteratively produces different ML models (various combinations of algorithms and parameters) and determines the best one.
 
 Step 2.1 The Registered Bankmarketing Dataset
 ![](Images/Step2.1-Registered%20Dataset.JPG)
@@ -82,7 +82,7 @@ Step 6.1 endpoint.py Producing JSON Output
 ![](Images/Step6.1%20-%20endpoint.py%20producing%20JSON%20output.JPG)
 
 ## Step 7: Create and Publish a Pipeline
-In this step, I created an ML pipeline, published it and consumed the REST endpoint to interact with the pipeline via POST request. Once the step is performed, others can interact and rerun the whole pipeline.
+In this step, I created an ML pipeline, ran an Automated ML Experiment, published the pipeline and consumed the REST endpoint to interact with the pipeline via POST request. Once the step is performed, others can interact with the whole pipeline.
 
 Step 7.1 A Pipline is Created
 ![](Images/Step7.1%20-%20pipeline%20created.JPG)
