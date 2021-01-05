@@ -15,8 +15,8 @@ Part 1 Azure ML Studio
 4. Consuming the REST endpoint to interact with the trained model via POST request
 
 Part 2 SDK
-1. Using the same dataset registered in Azure workspace for part 1.
-2. Creating a ML pipeline and AutoML Step - workflow automation
+1. Using the same dataset registered in Azure workspace for Part 1
+2. Creating a ML pipeline and AutoML step for workflow automation
 3. Publishing the pipeline so that it can be consumed
 4. Consuming the REST endpoint to interact with the pipeline via POST request
 
@@ -36,7 +36,7 @@ Part 2 SDK
 Authentication is required to ensure uninterrupted flow of operations. I skipped the step since I used the lab udacity provided.
 
 ## Step 2: Automated ML Experiment 
-The experiment iteratively produces different ML models (various combinations of algorithms and parameters) and determining the best one.
+The experiment iteratively produces different ML models (various combinations of algorithms and parameters) and determins the best one.
 
 Step 2.1 The Registered Bankmarketing Dataset
 ![](Images/Step2.1-Registered%20Dataset.JPG)
@@ -52,7 +52,7 @@ This step is important because we published the model so that it can be consumed
 
 
 ## Step 4: Enable Application Insights and Logging 
-Once the model is deployed I enabled Application Insights and retireved logs. Application Insightsis an Azure service that provides key performance information about the deployed service.
+Once the model is deployed I enabled Application Insights and retireved logs. Application Insightsis is an Azure service that provides key performance information about the deployed service.
 
 Step 4.1 Running the logs.py Script
 ![](Images/Step4.1%20-%20logs.JPG)
@@ -61,7 +61,7 @@ Step 4.2 Enabled Applications Insights
 ![](Images/Step4.2%20-%20enabled%20Application%20Insights.JPG)
 
 ## Step 5: Swagger Documentation
-Swagger makes documentation easier by describing the API what requests it accepts, inputs and endpoints  
+Swagger makes documentation easier by describing the API, what requests it accepts, inputs and endpoints  
 
 Step 5.1 Swagger Running on Localhost
 ![](Images/Step5.1%20-%20Swagger%20runs%20on%20localhost.JPG)
@@ -82,7 +82,7 @@ Step 6.1 endpoint.py Producing JSON Output
 ![](Images/Step6.1%20-%20endpoint.py%20producing%20JSON%20output.JPG)
 
 ## Step 7: Create and Publish a Pipeline
-In this step, I created an ML pipeline, published it and consumed the REST endpoint to interact with the pipeline via POST request. By the end of the step, we will be able to rerun the whole pipeline.
+In this step, I created an ML pipeline, published it and consumed the REST endpoint to interact with the pipeline via POST request. Once the step is performed, others can interact and rerun the whole pipeline.
 
 Step 7.1 A Pipline is Created
 ![](Images/Step7.1%20-%20pipeline%20created.JPG)
@@ -104,11 +104,6 @@ Step 7.6 Scheduled and Running Pipeline
 
 ## Step 8: Documentation 
 I created a screencast showing the entire process of the working ML application and produced a README file documenting the main steps of the project to easily share the project with others.
-
-## Screen Recording
-A link to the screencast on Youtube:
-https://youtu.be/71SDksY-YX8
-
 
 
 ## Future Works
