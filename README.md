@@ -23,7 +23,6 @@ Part 2 SDK
 
 ## Key Steps
 
-### 
 1.	Authentication
 2.	Automated ML Experiment
 3.	Deploy the best model
@@ -31,7 +30,7 @@ Part 2 SDK
 5.	Swagger Documentation
 6.	Consume model endpoints
 7.	Create and publish a pipeline
-8.	Documentation: Creating a screencast showing the entire process of the working ML application and producing a README file documenting the main steps of the project. 
+8.	Documentation
 
 ## Step 1: Authentication 
 Authentication is required to ensure uninterrupted flow of operations. I skipped the step since I used the lab udacity provided.
@@ -52,7 +51,7 @@ Step 2.3 The Best Model
 This step is important because we published the model so that it can be consumed by others.
 
 
-## Step 4: Enable Application Insights and logging: 
+## Step 4: Enable Application Insights and Logging: 
 Once the model is deployed I enabled Application Insights and retireved logs. Application Insightsis an Azure service that provides key performance information about the deployed service.
 
 Step 4.1 Running the logs.py Script
@@ -76,13 +75,13 @@ Step 5.3 Swagger - HTTP API Methods and Responses (cont'd)
 Step 5.4 Swagger - HTTP API Methods and Responses (cont'd)
 ![](Images/Step5.4%20-%20Swagger%20-%20HTTP%20API%20methods%20and%20responces.JPG)
 
-## Step 6: Consume model endpoints
+## Step 6: Consume Model Endpoints
 We consume the REST endpoint to interact with the trained model via POST request
 
 Step 6.1 endpoint.py Producing JSON Output
 ![](Images/Step6.1%20-%20endpoint.py%20producing%20JSON%20output.JPG)
 
-## Step 7: Create and publish a pipeline
+## Step 7: Create and Publish a Pipeline
 In this step, I created an ML pipeline and consumed the REST endpoint to interact with the pipeline via POST request. This step is important because it allows us to rerun the whole pipeline.
 
 Step 7.1 A Pipline is Created
@@ -104,7 +103,7 @@ Step 7.6 Scheduled and Running Pipeline
 ![](Images/Step7.6%20-%20Scheduled%20and%20running%20pipeline.JPG)
 
 ## Step 8: Documentation 
-I created a screencast showing the entire process of the working ML application and produced a README file documenting the main steps of the project.  
+I created a screencast showing the entire process of the working ML application and produced a README file documenting the main steps of the project to easily share the project with others.
 
 ## Screen Recording
 A link to the screencast on Youtube:
