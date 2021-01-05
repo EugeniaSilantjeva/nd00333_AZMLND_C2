@@ -66,14 +66,11 @@ Step 6.1 endpoint.py Producing JSON Output
 Step 7.1 A Pipline is Created
 ![](Images/Step7.1%20-%20pipeline%20created.JPG)
 
-Step 7.2 Published Pipeline under Pipeline Endpoint Tab
+Step 7.2 A Published Pipeline under the Pipeline Endpoint Tab
 ![](Images/step7.3%20-%20pipeline%20endpoint.JPG)
 
-Step 7.3 Dataset with AutoML Module, the Published Pipeline Overview Including Active Satatus and REST Endpoint 
+Step 7.3 The Dataset with the AutoML Module, the Published Pipeline Overview Including Active Satatus and REST Endpoint 
 ![](Images/Step7.4%20Dataset%20with%20AutoML%20module%20and%20the%20published%20pipeline%20overview.JPG)
-
-Step 7.3 RunDetails Widget Showing Step Runs 
-![](Images/Step7.5%20RunDetails%20widget%20showing%20step%20runs.JPG)
 
 Step 7.4 RunDetails Widget Showing Step Runs 
 ![](Images/Step7.5%20RunDetails%20widget%20showing%20step%20runs.JPG)
