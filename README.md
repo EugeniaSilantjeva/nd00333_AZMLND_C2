@@ -16,7 +16,7 @@ Part 1 Azure ML Studio
 
 Part 2 SDK
 1. Using the same dataset registered in Azure workspace for Part 1
-2. Creating an ML pipeline and AutoML step for workflow automation
+2. Creating an ML pipeline with AutoML step and run the experiment
 3. Publishing the pipeline so that it can be consumed
 4. Consuming the REST endpoint to interact with the pipeline via POST request
 
