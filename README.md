@@ -82,7 +82,7 @@ Step 6.1 endpoint.py Producing JSON Output
 ![](Images/Step6.1%20-%20endpoint.py%20producing%20JSON%20output.JPG)
 
 ## Step 7: Create and Publish a Pipeline
-In this step, I created an ML pipeline, published it and consumed the REST endpoint to interact with the pipeline via POST request. This step is important because it allows us to rerun the whole pipeline.
+In this step, I created an ML pipeline, published it and consumed the REST endpoint to interact with the pipeline via POST request. By the end of the step, we will be able to rerun the whole pipeline.
 
 Step 7.1 A Pipline is Created
 ![](Images/Step7.1%20-%20pipeline%20created.JPG)
