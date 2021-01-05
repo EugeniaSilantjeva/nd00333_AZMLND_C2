@@ -73,7 +73,7 @@ Step 7.3 The Dataset with the AutoML Module, the Published Pipeline Overview Inc
 ![](Images/Step7.4%20Dataset%20with%20AutoML%20module%20and%20the%20published%20pipeline%20overview.JPG)
 
 Step 7.4 RunDetails Widget Showing Step Runs 
-![](Images/Step7.5%20RunDetails%20widget%20showing%20step%20runs.JPG)
+![](Images/Step7.5_RunDetail_swidget_showing_step_runs.JPG)
 
 Step 7.5 Scheduled and Running Pipeline 
 ![](Images/Step7.6%20-%20Scheduled%20and%20running%20pipeline.JPG)
