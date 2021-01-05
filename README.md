@@ -33,7 +33,14 @@ Part 2
 7.	Create and publish a pipeline: Creating an ML pipeline and consuming the REST endpoint to interact with the pipeline via POST request
 8.	Documentation: Creating a screencast showing the entire process of the working ML application and producing a README file documenting the main steps of the project. 
 
+Step 2.1 The Registered Bankmarketing Dataset
+![](Images/Step2.1-Registered%20Dataset.JPG)
 
+Step 2.2 The completed Experiment
+![](Images/Step2.2%20-Completed%20Experiment.JPG)
+
+Step 2.3 The Best Model
+![](Images/Step2.3%20-%20Best%20Model.JPG)
 
 ## Screen Recording
 A link to the screencast on Youtube:
