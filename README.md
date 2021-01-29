@@ -109,5 +109,4 @@ I created a screencast showing the entire process of the working ML application 
 ## Future Works
 To achieve a better predictive ability of a model, several improvements can be done. First of all, we need to deal with the class imbalance that we detected during the model training. We can experiment with other metrics suitable for that problem, for instance, F1 score or introduce resampling techniques (oversampling or undersampling). Second, we can manage models used during the Automated ML Experiment and allow only the ones we think will be effective. Third, we can perform k-fold cross validation so that a model gets a better generalisation ability. Finally, feature selection and feature engineering can, too, improve the performance. 
 
-## Screencast on Youtube
-https://youtu.be/71SDksY-YX8
+
